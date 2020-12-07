@@ -1,0 +1,64 @@
+h1 /* titre en bleu */
+{
+    color: blue;
+}
+
+.introduction
+{
+color: blue;
+}
+p
+{
+    font-size: 14px; /* Paragraphes de 14 pixels */
+}
+h1
+{
+    font-size: 40px; /* Titres de 40 pixels */
+}
+
+h1, h2, h3
+{
+    font-family: "Arial Black", Verdana;
+}
+
+p
+{
+	font-family: "Arial";
+}
+p
+{
+	text-align: left;
+}
+p
+{
+	text-align: justify;
+}
+
+a
+{
+	font-family: "Arial";
+}
+a
+{
+	font-weight: bold;
+}
+
+em
+{
+    font-style: normal;
+}
+
+h1, h2, h3
+{
+	font-weight: bold; 
+}
+h1,h2,h3
+{
+	text-align: left;
+}
+
+body
+{
+	background-color: rgb(225,173,181);
+}
+
